@@ -1,3 +1,3 @@
 # hello_world
 This is my first git repository
-	**The is the main branch**
+	**This is the is the main branch**
