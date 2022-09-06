@@ -5,4 +5,4 @@ This is my first git repository<br>
 1. one
 2. Two
 3. Three
-## This is the tes branch
+## This is the test branch
